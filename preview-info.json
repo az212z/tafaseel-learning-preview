@@ -1,8 +1,7 @@
 {
   "source_repository": "az212z/tafaseel-training-center",
-  "source_branch": "feat/learning-platform",
-  "source_commit": "e0a4bfc809f7c6a8528c38d67dbc5aad4e605e05",
-  "version": "2.0.0",
-  "storage": "browser IndexedDB only",
-  "live_integrations": false
+  "source_commit": "fe1767eb155bc2f8d3b80543245f2af408175c67",
+  "mode": "browser-preview-with-full-trial-launcher",
+  "full_trial": "https://codespaces.new/az212z/tafaseel-training-center/tree/feat/learning-platform?devcontainer_path=.devcontainer%2Flearning-platform%2Fdevcontainer.json",
+  "user_codespace_created": false
 }

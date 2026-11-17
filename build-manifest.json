@@ -2,7 +2,7 @@
   "mode": "browser-preview",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "assets/api-BCQnNMBO.js": "313d462a7e618044acf67824c42b15f7b9d944a90a5f3bc822a06d8334936685",
+    "assets/api-C7l6mJ9l.js": "f0314a83fa1882c5380579337e5c7777419c2c578a1c021d27e51d301a73877f",
     "assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2": "6010e7fd0dce5d527583951750728cbe3c895efbd16aa0f809ab8c824878c9d8",
     "assets/ibm-plex-sans-arabic-arabic-400-normal-EA1o-u_Q.woff": "5777059c6186b4575f2097b83bf5ac50175b24ea8c430586f5be39a607875c21",
     "assets/ibm-plex-sans-arabic-arabic-500-normal-C4MQITzh.woff2": "90aef64fea9794f232332e907d45810ab268d1a11721340025eba2a2cdb36d5c",
@@ -28,7 +28,7 @@
     "assets/ibm-plex-sans-arabic-latin-ext-700-normal-BSbyEp0V.woff2": "ab0b9584271f492336d9eadcef96f99b0da07e8e7046220aea5084f1644a9c9d",
     "assets/ibm-plex-sans-arabic-latin-ext-700-normal-C7GcWn11.woff": "607efd86ebb4d417ef472ec55fcbc24e5e3ed969ca974d35cd277497532762bf",
     "assets/index-B4bn7bp6.css": "e82a7f7528c819cef6d278ca813b30a0781b8fd1d61b5bdeaf54e77b010f0ad5",
-    "assets/index-CCCOCxuM.js": "97c955dd4644660f19a498bc9c56ffc0f51aede9dbc24786248c42481584f9f5",
+    "assets/index-Cph_OCWT.js": "e9a509f06378f9a7d162954041b2f5e9eac76c69b6b5b6bcf1ec61868ca08aa6",
     "brand/logo.webp": "c137b347127f360c1f82af5aac8a440138f7284cc7345a3c4a20aaacb08798a7",
     "brand/pattern-blue.webp": "dd9e1d1c655d55d9321aafc0a357ad52f5c5ea2319c2617efa74da2a3833fb30",
     "images/classroom.webp": "2c08e82f298210bf180d96742d459df8b124bd27e8ea1d683ed98976e337fc93",
@@ -45,7 +45,7 @@
     "images/courses/step.webp": "b359e08fcb8259313d24904b25be385d1006d7262101f9b13a95db186e92b4ea",
     "images/courses/teacher-competencies.webp": "5419e394dcd2b84f85bedfc5e4369dcf221eead1ea53a4e342fc5d5e97002230",
     "images/courses/toefl.webp": "7341bd1f3f21dcb6664a38923c3ca9183d9e8e18d3c6219ed1a4b2ba9228f17d",
-    "index.html": "db5c2c1ca080d26f402080e330d5bf09b16950830f0004ce6587a256574ff0fa",
+    "index.html": "26f5a8ae192073642012168796eee7704d3dfe7e832f9ec417fad0cd21788263",
     "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
   }
 }
