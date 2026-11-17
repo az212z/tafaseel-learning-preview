@@ -1,8 +1,8 @@
 {
-  "mode": "browser-only-preview",
   "source_repository": "az212z/tafaseel-training-center",
-  "source_commit": "a9b99ce754414b2432b57874ea21e267bbd33425",
-  "source_path": "learning-platform",
-  "source_pr": "https://github.com/az212z/tafaseel-training-center/pull/1",
-  "real_student_data": false
+  "source_branch": "feat/learning-platform",
+  "source_commit": "e0a4bfc809f7c6a8528c38d67dbc5aad4e605e05",
+  "version": "2.0.0",
+  "storage": "browser IndexedDB only",
+  "live_integrations": false
 }
